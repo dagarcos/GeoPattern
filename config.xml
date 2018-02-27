@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+  id          = "GeoPattern"
+  versionCode = "108"
+  version     = "1.0.8" >
+  
+<platform name="android" >
+	<icon src="geoPattern_logo.png" platform="ios" width="200" height="200"></icon></platform>
+	<name>GeoPattern</name>
+	<description>Introducción al algebra mediante problemas de patrones geométricos</description>
+	<author>
+	    Eva Arbona, Daniel Garcia
+	</author>
+	<plugin name="cordova-plugin-file" spec="4.3.3"></plugin>
+	<plugin name="cordova-plugin-file-transfer" spec="1.6.3"></plugin>
+</widget>
